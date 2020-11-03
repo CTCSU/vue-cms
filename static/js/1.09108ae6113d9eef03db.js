@@ -1,0 +1,2 @@
+webpackJsonp([1],{"6WW2":function(e,t,n){"use strict";t.d=function(){return r.d?u.a.post("/api/getmoviepiaofang"):new i.a(function(e,t){setTimeout(e,2e3,u.a.post("/api/getmoviepiaofang-mock"))})},t.c=function(){return u()({method:"post",url:"/excel/getMergeTableData"})},t.b=function(){return u()({method:"post",url:"/excel/getFiles"})},t.a=function(e){return u()({method:"post",url:"/excel/delFiles"})};var o=n("//Fk"),i=n.n(o),a=n("mtWM"),u=n.n(a),r=n("0xDb")}});
+//# sourceMappingURL=1.09108ae6113d9eef03db.js.map
